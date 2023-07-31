@@ -4,6 +4,8 @@
 - My tier/rank at kaggle is:
 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/diaaessam/competition)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/diaaessam/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/diaaessam/discussion)
+
 
 
